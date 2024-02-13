@@ -1,0 +1,16 @@
+.lead-cards {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 1.5em;
+}
+.card img {
+    padding: 2.5em;
+    border-radius: 3em;
+}
+h1 {
+    padding: 1.5em 1em;
+}
+.card-body {
+    text-align: center;
+}
